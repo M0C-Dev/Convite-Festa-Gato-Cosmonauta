@@ -1,0 +1,9 @@
+html {
+    background-image: url("imgs/stars.gif");
+    margin: 0px;
+    padding: 0px;
+  }
+.principal {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
